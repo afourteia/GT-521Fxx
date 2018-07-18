@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/abdul/GitHub/GT-521Fxx/GT-F52F52.cpp
+GT-F52F52.h
+/home/abdul/GitHub/GT-521Fxx/GT-F52F52.h
+
+/home/abdul/GitHub/GT-521Fxx/GT-F52F52.h
+iostream
+-
+SerialStream.h
+-
+

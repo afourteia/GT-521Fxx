@@ -1,0 +1,2 @@
+/usr/bin/ar qc libGT_521Fxx.a  CMakeFiles/GT_521Fxx.dir/GT-F52F52.cpp.o
+/usr/bin/ranlib libGT_521Fxx.a
